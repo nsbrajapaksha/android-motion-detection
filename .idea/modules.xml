@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Bewegungsmelder.iml" filepath="$PROJECT_DIR$/Bewegungsmelder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-motion-detection.iml" filepath="$PROJECT_DIR$/android-motion-detection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
